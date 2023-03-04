@@ -198,7 +198,7 @@ params:
   # Music projects
   projects:
     enable: true
-    title: "Projects"
+    title: "Music Projects"
     items:
       - title: Poid Lourd - Disiz
         content: Composer of original sound creation - first version.
