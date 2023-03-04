@@ -102,7 +102,7 @@ params:
   navbar:
     align: ms-auto # Left: ms-auto | center: mx-auto | right: me-auto | Default: ms-auto
     # brandLogo: "/logo.png" # Logo for the brand | default is the favicon variable
-    brandName: "Sylvain Estebe" # Brand name for the brand | default is the title variable
+    brandName: "Sylvain Portfolio" # Brand name for the brand | default is the title variable
     disableSearch: true
     menus:
       disableAbout: true
@@ -198,7 +198,7 @@ params:
   # Music projects
   projects:
     enable: true
-    title: "Music Projects"
+    title: "Music projects"
     items:
       - title: Poid Lourd - Disiz
         content: Composer of original sound creation - first version.
@@ -224,7 +224,7 @@ params:
           - "Midi keyboard"
           - "2019"
 
-      - title: Albums - Jok'air 
+      - title: Albums & Mixtapes - Jok'air 
         content: Single composer for the albums Big Daddy Jok, Je suis Big Daddy & Jok'Rambo (22 tracks).
         image: /images/projects/squale.jpg
         featured:
@@ -254,8 +254,8 @@ params:
         content: Independent composer for one man show at Theatre Antoine in Paris. Original sound creation.
         image: /images/projects/pana.png
         featured:
-          name: Youtube
-          link: https://www.youtube.com/watch?v=1lqLuY4d86k
+          name: Video
+          link: https://www.facebook.com/panayotis.pascot.fr/videos/1456042581224063
         badges:
           - "Composer"
           - "Work collaboration"
@@ -278,18 +278,18 @@ params:
   # Achievements
   achievements:
     enable: true
-    title: "Interest"
+    title: "Mooc courses followed"
     items:
-      - title: "Mooc - Pupillometry,The Eye as a Window into the Mind"
+      - title: "Pupillometry - The Eye as a Window into the Mind - Achievements"
         content: Examine the science of pupillometry and explore the eye as a window into the mind with the University of Oslo.
         url: "https://www.futurelearn.com/certificates/k5jbltj"
             
             
-      - title: "Mooc - Motion Capture: The Art of Studying Human Activity"
+      - title: "Motion Capture: The Art of Studying Human Activity - Week 3/6"
         content: Learn about how to record, visualize, and analyze human body motion - University of Oslo
         url: https://www.futurelearn.com/courses/motion-capture-course
         
-      - title: "Mooc - Introduction to Programming with Python"
+      - title: "Introduction to Programming with Python - Week 3/4"
         content: Build your programming skills and learn the basics of the Python programming language, from logic and functions to debugging.
         url: "https://www.futurelearn.com/courses/introduction-to-programming-with-python-fourth-rev-e"
           
