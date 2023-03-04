@@ -292,7 +292,7 @@ params:
   # Achievements
   achievements:
     enable: true
-    title: "Interest"
+    title: "Interests"
     items:
       - title: "Mooc - Pupillometry, The Eye as a Window into the Mind"
         content: Examine the science of pupillometry and explore the eye as a window into the mind with the University of Oslo.
