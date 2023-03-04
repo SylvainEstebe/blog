@@ -280,16 +280,16 @@ params:
     enable: true
     title: "Interest"
     items:
-      - title: "Mooc - Pupillometry,The Eye as a Window into the Mind - Achievements"
+      - title: "Mooc - Pupillometry,The Eye as a Window into the Mind"
         content: Examine the science of pupillometry and explore the eye as a window into the mind with the University of Oslo.
         url: "https://www.futurelearn.com/certificates/k5jbltj"
             
             
-      - title: "Mooc - Motion Capture: The Art of Studying Human Activity - Week 3/6"
+      - title: "Mooc - Motion Capture: The Art of Studying Human Activity"
         content: Learn about how to record, visualize, and analyze human body motion - University of Oslo
         url: https://www.futurelearn.com/courses/motion-capture-course
         
-      - title: "Mooc - Introduction to Programming with Python - Week 3/4"
+      - title: "Mooc - Introduction to Programming with Python"
         content: Build your programming skills and learn the basics of the Python programming language, from logic and functions to debugging.
         url: "https://www.futurelearn.com/courses/introduction-to-programming-with-python-fourth-rev-e"
           
