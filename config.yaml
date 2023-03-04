@@ -147,7 +147,7 @@ params:
   #  image: "/images/sylvain.png"
   #  content: |-
   #   I have a background in cognitive science, computer science and #mathematics. I have a strong interest in the intersection of technology, art and cognitive behaviour.
-     
+
   #      Here are some of the programming languages I've recently been studying and using :
  #   skills:
   #    enable: true
@@ -169,7 +169,7 @@ params:
         company: "Internship - RITMO"
         companyUrl: "https://www.uio.no/ritmo/english/"
         date: "May 2022 - July 2022"
-        
+
         content: |
          Collection of eye-tracking data to measure and predict emotions induced by music listening.
           - Conduct a literature review
@@ -178,17 +178,15 @@ params:
           - Recruit participants
           - Manage a passation protocol
           - Collect pupillometry data
-
       - job: "Composer"
         company: "Independent composer"
         date: "Sep 2015 - Dec 2022"
-    
+
         info:
           enable: true
 
         content: |
          I have worked with many different artists and musical styles on the composition and production of rythmes and song,
-
           Composing & Producing pop songs and advertising :
           - Logic Pro X
           - FL Studio
@@ -261,7 +259,7 @@ params:
           - "Work collaboration"
           - "FL Studio with plugin"
           - "2020"
-          
+
   # Technology projects
   projectsT:
     enable: true
@@ -269,7 +267,7 @@ params:
     items:
       - title: 2048 video game in 3D
         content: Programming team work project. My personal work consisted of creating the graphical interface, creating and implementing a database, and implementing the Alphabeta artificial intelligence algorithm. Introduced Scrum and Agile project management methods using SQL, Always Data, PhpMyAdmin, Java Fx and Github.
-          
+
         image: /images/projects/2048_3d.jpg
         featured:
           name: Github
@@ -283,16 +281,16 @@ params:
       - title: "Pupillometry - The Eye as a Window into the Mind - Achievements"
         content: Examine the science of pupillometry and explore the eye as a window into the mind with the University of Oslo.
         url: "https://www.futurelearn.com/certificates/k5jbltj"
-            
-            
+
+
       - title: "Motion Capture: The Art of Studying Human Activity - Week 3/6"
         content: Learn about how to record, visualize, and analyze human body motion - University of Oslo
         url: https://www.futurelearn.com/courses/motion-capture-course
-        
+
       - title: "Introduction to Programming with Python - Week 3/4"
         content: Build your programming skills and learn the basics of the Python programming language, from logic and functions to debugging.
         url: "https://www.futurelearn.com/courses/introduction-to-programming-with-python-fourth-rev-e"
-          
+
   #Contact
   contact:
     enable: true
