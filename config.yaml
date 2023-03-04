@@ -260,7 +260,7 @@ params:
           - "FL Studio with plugin"
           - "2020"
           
-      - title: Technology projects - 2048 video game in 3D
+      - title: Technology project - 2048 video game in 3D
         content: Programming team work project. My personal work consisted of creating the graphical interface, creating and implementing a database, and implementing the Alphabeta artificial intelligence algorithm. Introduced Scrum and Agile project management methods. 
         image: /images/projects/2048_3d.jpg
         featured:
