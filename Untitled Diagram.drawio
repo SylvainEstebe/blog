@@ -1,0 +1,33 @@
+<mxfile host="app.diagrams.net" modified="2023-05-31T09:13:31.922Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" version="21.3.6" etag="D9mMvd5O_rVQbU9H0wTI" type="github">
+  <diagram name="Page-1" id="YdkHP2qYsaDRNXizEfCZ">
+    <mxGraphModel>
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="2" value="Experience scientifique" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry y="42" width="183" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="3" value="Design de l&#39;experience" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="244" width="175" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="4" value="Protocole de l&#39;experience" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="233" y="84" width="197" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="5" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.7559455883315337;exitY=-0.007352941176470588;entryX=-0.0006026785714285714;entryY=0.49264705882352944;" edge="1" parent="1" source="2" target="3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="208" y="17" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.7559455883315337;exitY=0.9779411764705882;entryX=0.0007138324873096446;entryY=0.47794117647058826;" edge="1" parent="1" source="2" target="4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="208" y="100" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
