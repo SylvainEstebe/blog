@@ -12,7 +12,8 @@ outputs:
     - "HTML"
     - "RSS"
 
-Paginate: 3
+pagination:
+  pagerSize: 3
 enableRobotsTXT: true
 
 markup:
@@ -25,7 +26,6 @@ Menus:
 params:
   title: "Sylvain"
   description: Text about my cool site
-
   favicon: "/images/sylvain.png"
   useBootstrapCDN: false
   animate: true
@@ -55,7 +55,6 @@ params:
     intro: "Hi, my name is"
     title: "Sylvain Estebe"
     subtitle: "I am a French cognitive science student currently studying in Aarhus, Denmark"
-    content: "I am a master's candidate in cognitive science at Aarhus University. My current research is on the intersection of causal inference, computational methods, and modeling cognition. Outside academia, I produce music, run, create abstract photography, and love to travel. Feel free to reach out using the Contact Me form!"
     image: /images/sylvain.png
     button:
       enable: true
@@ -79,7 +78,7 @@ params:
     title: "About Me"
     image: "/images/sylvain.png"
     content: |-
-      With a background in cognitive science, computer science, and mathematics, I am deeply interested in the intersection of technology, art, and human behavior. My professional journey combines elements of scientific inquiry with creativity and collaboration. Whether through producing music, analyzing data, or designing user-focused technology, I strive to bridge the gap between technical skill and human experience.
+      I am a master's candidate in cognitive science at Aarhus University. My current research is on the intersection of causal inference, computational methods, and modeling cognition. Outside academia, I produce music, run, create abstract photography, and love to travel. Feel free to reach out using the Contact Me form!
       
       Here are some of the programming languages and tools I frequently work with:
     skills:
@@ -103,87 +102,4 @@ params:
           Collected eye-tracking data to measure and predict emotions induced by music listening.
           - Conducted a literature review
           - Designed and set up experimental protocols
-          - Recruited participants and managed data collection
-          - Collected pupillometry data
-      - job: "Composer"
-        company: "Independent composer"
-        date: "Sep 2015 - Dec 2022"
-        content: |
-          Collaborated with diverse artists to compose and produce music across genres. Projects included:
-          - Composing & Producing pop songs and advertising music
-          - Using tools like Logic Pro X, FL Studio, and Spitfire Audio
-
-  projects:
-    enable: true
-    title: "Projects"
-    items:
-      - title: "Poid Lourd - Disiz"
-        content: Composer of original sound creation - first version.
-        image: /images/projects/poidlourd.png
-        featured:
-          name: Youtube
-          link: https://www.youtube.com/watch?v=snSiqRZDXMI
-        badges:
-          - "Collaboration with Hip-hop artist"
-          - "FL Studio"
-          - "Midi keyboard"
-          - "2022"
-
-      - title: "Single Enfants irradiés - Disiz"
-        content: Integral composer & programming. Excluding mixing, mastering, and recording engineering.
-        image: /images/projects/enfantirra.jpg
-        featured:
-          name: Youtube
-          link: https://www.youtube.com/watch?v=fu6JhsYiqac
-        badges:
-          - "Collaboration with Hip-hop artist"
-          - "FL Studio"
-          - "Midi keyboard"
-          - "2019"
-
-      - title: "Albums & Mixtapes - Jok'air"
-        content: Solo composer for Jok'air’s albums Big Daddy Jok, Je suis Big Daddy, and Jok'Rambo.
-        image: /images/projects/squale.jpg
-        featured:
-          name: Tidal
-          link: https://tidal.com/browse/credits/8569123
-        badges:
-          - "Integral composer"
-          - "Collaboration with Rap artist"
-          - "FL Studio"
-          - "Midi keyboard"
-          - "Professional sound recording"
-
-      - title: "Adidas Commercial - Courir"
-        content: Original music composition for an Adidas commercial.
-        image: /images/projects/courxadi.png
-        featured:
-          name: Video
-          link: https://www.facebook.com/pepsidebeats/videos/553104515263771
-        badges:
-          - "Composer"
-          - "FL Studio"
-          - "2019"
-
-  achievements:
-    enable: true
-    title: "Achievements"
-    items:
-      - title: "Mooc - Pupillometry, The Eye as a Window into the Mind"
-        content: Explored pupillometry as a method for understanding the mind, offered by the University of Oslo.
-        url: "https://www.futurelearn.com/certificates/k5jbltj"
-
-      - title: "Mooc - Motion Capture, The Art of Studying Human Activity"
-        content: Studied motion capture methods for recording and analyzing human movement.
-        url: "https://www.futurelearn.com/courses/motion-capture-course"
-
-      - title: "Mooc - Introduction to Programming with Python"
-        content: Built foundational skills in Python programming, covering logic, functions, and debugging.
-        url: "https://www.futurelearn.com/courses/introduction-to-programming-with-python-fourth-rev-e"
-
-  contact:
-    enable: true
-    title: "Contact"
-    content: "My inbox is always open. Whether you have a question or just want to say hi, I’ll try my best to get back to you!"
-    email: "sylvain.estebe@gmail.com"
-    btnName: "Mail me"
+          - Re
