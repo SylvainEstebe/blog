@@ -54,7 +54,6 @@ params:
     intro: "Hi, my name is"
     title: "Sylvain Estebe"
     subtitle: "I am a French cognitive science student currently studying in Aarhus, Denmark"
-    content: "I am a master's candidate in cognitive science at Aarhus University. My current research is on the intersection of causal inference, computational methods, and modeling cognition. Outside academia, I produce music, run, create abstract photography, and love to travel. Feel free to reach out using the Contact Me form!"
     image: /images/sylvain.png
     button:
       enable: true
