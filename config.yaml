@@ -119,9 +119,6 @@ params:
     title: "Sylvain Estebe"
     subtitle: "I am French cognitive science student currently studying in Aarhus, Denmark"
     content: "I am a master candidate in cognitive science at Aarhus University. My current research is on the intersection of causal inference, computational and modeling of cognition. Outside of academia, I love to produce music, run, make photo, and travel.If you want to reach out to me, please feel free to do so using the Contact Me form."
-
-
-
     image: /images/sylvain.png
     button:
       enable: true
